@@ -10,7 +10,7 @@ My portfolio learn and bulit using Materialize CSS framework, Animate.css, JQery
 - **Home Page**
 - **About Me**: Display my 
 - **Skills**: Introduce skills I possess a full-stack web developer
-- **Recent Project**:
+- **Recent Project**:Display and Introduce the work and side project I have done
 - **Discover More**:Links to my GitHub Profile
 - **Contact**:Allow users to leaver their contact infomation
 
