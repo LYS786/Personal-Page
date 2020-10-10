@@ -17,7 +17,7 @@ My portfolio learn and bulit using Materialize CSS framework, Animate.css, JQery
 ___
 
 ## Website
--Want to see the demo? Visit: [Ken's Personal Page]
+-Want to see the demo? Visit: [Ken's Portfolio](https://github.com/LYS786/Personal-Page/edit/main/README.md)
 -
 
 ___
